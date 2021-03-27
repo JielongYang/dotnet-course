@@ -1,0 +1,16 @@
+C:\code\c#-helloworld\bin\Debug\net5.0\c#-helloworld.exe
+C:\code\c#-helloworld\bin\Debug\net5.0\c#-helloworld.deps.json
+C:\code\c#-helloworld\bin\Debug\net5.0\c#-helloworld.runtimeconfig.json
+C:\code\c#-helloworld\bin\Debug\net5.0\c#-helloworld.runtimeconfig.dev.json
+C:\code\c#-helloworld\bin\Debug\net5.0\c#-helloworld.dll
+C:\code\c#-helloworld\bin\Debug\net5.0\ref\c#-helloworld.dll
+C:\code\c#-helloworld\bin\Debug\net5.0\c#-helloworld.pdb
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.csprojAssemblyReference.cache
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.AssemblyInfoInputs.cache
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.AssemblyInfo.cs
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.csproj.CoreCompileInputs.cache
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.dll
+C:\code\c#-helloworld\obj\Debug\net5.0\ref\c#-helloworld.dll
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.pdb
+C:\code\c#-helloworld\obj\Debug\net5.0\c#-helloworld.genruntimeconfig.cache
