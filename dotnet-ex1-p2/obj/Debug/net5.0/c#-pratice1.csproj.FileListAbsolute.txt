@@ -1,0 +1,5 @@
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/c#-pratice1.csprojAssemblyReference.cache
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/c#-pratice1.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/c#-pratice1.AssemblyInfoInputs.cache
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/c#-pratice1.AssemblyInfo.cs
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/c#-pratice1.csproj.CoreCompileInputs.cache

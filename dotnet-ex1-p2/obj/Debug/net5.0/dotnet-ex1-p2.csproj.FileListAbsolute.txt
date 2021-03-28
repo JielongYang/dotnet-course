@@ -1,0 +1,16 @@
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.csprojAssemblyReference.cache
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.GeneratedMSBuildEditorConfig.editorconfig
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.AssemblyInfoInputs.cache
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.AssemblyInfo.cs
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.csproj.CoreCompileInputs.cache
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/dotnet-ex1-p2
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/dotnet-ex1-p2.deps.json
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/dotnet-ex1-p2.runtimeconfig.json
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/dotnet-ex1-p2.runtimeconfig.dev.json
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/dotnet-ex1-p2.dll
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/ref/dotnet-ex1-p2.dll
+/home/yang/code/dotnet-course/dotnet-ex1-p2/bin/Debug/net5.0/dotnet-ex1-p2.pdb
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.dll
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/ref/dotnet-ex1-p2.dll
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.pdb
+/home/yang/code/dotnet-course/dotnet-ex1-p2/obj/Debug/net5.0/dotnet-ex1-p2.genruntimeconfig.cache
