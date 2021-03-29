@@ -7,7 +7,8 @@ public class Student{
     public int English{get;}
 
     public int Sum;
-
+    public Student(int chinese) => (Chinese) = (chinese);
+    public Student(string name, int chinese) => (Name,Chinese) = (name,chinese);
     public Student(string name, int chinese,int math,int english) => (Name,Chinese,Math,English) = (name,chinese,math,english);
 
     public int getSum(){
